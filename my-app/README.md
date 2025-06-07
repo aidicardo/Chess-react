@@ -15,5 +15,3 @@ This project demonstrates a simple React application bootstrapped with Vite and 
    ```bash
    npm run dev
    ```
-
-

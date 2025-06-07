@@ -8,3 +8,6 @@ A simple React project using Vite, TypeScript and Tailwind CSS.
 cd my-app
 npm install
 npm run dev
+
+npm install
+npm run build
